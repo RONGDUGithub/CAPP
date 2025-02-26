@@ -1,3 +1,5 @@
+******The content of this repository has been updated to match https://github.com/RONGDUGithub/CAPP
+
 Overview
 
 This code is written in MATLAB and contains two main experimental components, packaged separately in Nonsampling.zip and Sampling.zip, representing implementations without and with sampling schemes respectively.
